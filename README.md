@@ -1,8 +1,8 @@
 <H2>👋 Alooo, ini Nurulll 👋 </H2>
 
-Heyyooo, I'm Nurul Hidayati, people usually call me Nurul. Currently I live in Yogyakarta. But I come from Gresik. Now I'm study at Gadjah Mada University majoring in Geophysics. 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nurulxruhi)
+[![Gmail Badge](https://img.shields.io/badge/-nurul.hid2002@mail.ugm.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nurul.hid2002@mail.ugm.ac.id)](mailto:nurul.hid2002@mail.ugm.ac.id)
 
-<!---
-Nurulxruhi/Nurulxruhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
