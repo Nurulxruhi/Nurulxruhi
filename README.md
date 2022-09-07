@@ -1,5 +1,4 @@
-https://user-images.githubusercontent.com/101978094/188761799-ffcbba69-966c-407f-8482-43f71156e010.mp4
-
+![20220907_1034001](https://user-images.githubusercontent.com/101978094/188783005-805b0cff-f9ce-4874-8455-41354a8a3ba2.gif)
 
 <H2>👋 Sawatdee khaa 👋 </H2>
 
