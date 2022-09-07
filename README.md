@@ -1,4 +1,7 @@
-<H2>👋 Alooo, ini Nurulll 👋 </H2>
+https://user-images.githubusercontent.com/101978094/188761799-ffcbba69-966c-407f-8482-43f71156e010.mp4
+
+
+<H2>👋 Sawatdee khaa 👋 </H2>
 
 Haiii,, Kenalin aku Nurul Hidayati, panggil aja Nurul💁‍♀️ <br> 
 Aku lahir di Gresik, 13 Juli 2002👶 <br> 
