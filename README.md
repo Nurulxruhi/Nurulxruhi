@@ -1,10 +1,5 @@
 ![20220907_1034001](https://user-images.githubusercontent.com/101978094/188783005-805b0cff-f9ce-4874-8455-41354a8a3ba2.gif)
 
-<H2>👋 Sawatdee khaa 👋 </H2>
-
-Haiii,, Kenalin aku Nurul Hidayati, panggil aja Nurul💁‍♀️ <br> 
-Saat ini aku sedang belajar di Universitas Gadjah Mada🏢 Program studi geofisika🪐 <br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nurulxruhi)
